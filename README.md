@@ -21,7 +21,7 @@ Download via your favourite package manager, for example w/ Lazy:
 With packer: 
 ```
 use {
-  'yourusername/tr100.vim',
+  'l-snq/tr100.vim',
   config = function()
     vim.cmd('colorscheme tr100')
   end
