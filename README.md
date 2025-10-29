@@ -27,3 +27,7 @@ use {
   end
 }
 ```
+
+# License
+
+MIT
